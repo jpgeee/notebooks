@@ -1,0 +1,8 @@
+name: scientific-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pillow
+  - scipy
